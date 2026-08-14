@@ -1,0 +1,6 @@
+# Habit Tracker Dependencies
+# Install with: pip install -r requirements.txt
+
+textual     # Terminal UI framework (TUI)
+plotext     # Terminal-based charts and graphs
+plyer       # Cross-platform system notifications
