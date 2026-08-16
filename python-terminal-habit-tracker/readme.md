@@ -1,4 +1,4 @@
-# Habit Tracker
+# Habit Tracker Terminal Based App
 
 A terminal-based habit tracker with streaks, charts, and system notifications.
 
